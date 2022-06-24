@@ -4,10 +4,10 @@ int number = Convert.ToInt32(Console.ReadLine());
 int count = 0;
 if (number >=0)
 {
-
+ Console.Write($"Вы ввели {number} получите ");
    while (count < number)
    {
-    Console.Write("1 ");
+    Console.Write($"1 ");
     count+=1;
     }
 
