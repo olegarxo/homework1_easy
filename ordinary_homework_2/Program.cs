@@ -12,10 +12,6 @@ if (max < numberTwo){
         max = numberTree;
     }
 }
-//else if (max < numberTree);
-   
-
-
     Console.WriteLine(max);
 /*Второе решение
 Console.Clear();
