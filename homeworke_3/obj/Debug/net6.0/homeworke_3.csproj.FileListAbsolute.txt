@@ -1,0 +1,15 @@
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\bin\Debug\net6.0\homeworke_3.exe
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\bin\Debug\net6.0\homeworke_3.deps.json
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\bin\Debug\net6.0\homeworke_3.runtimeconfig.json
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\bin\Debug\net6.0\homeworke_3.dll
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\bin\Debug\net6.0\homeworke_3.pdb
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.csproj.AssemblyReference.cache
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.AssemblyInfoInputs.cache
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.AssemblyInfo.cs
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.csproj.CoreCompileInputs.cache
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.dll
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\refint\homeworke_3.dll
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.pdb
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\homeworke_3.genruntimeconfig.cache
+C:\Users\Smirnov_ON\Desktop\folderC#\homeworke_3\obj\Debug\net6.0\ref\homeworke_3.dll
