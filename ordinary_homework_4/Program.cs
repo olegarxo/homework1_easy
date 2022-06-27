@@ -4,9 +4,13 @@ int [] tamp = new int[number];
 for (int i = 0; i < number; i++){
     tamp[i] = 0 + i;
 }
-for (int j = 0; j < number; j++){
-    if (tamp[j] %2 ==1 )
-    Console.WriteLine(tamp[j]);
+for (int j = 1; j <= number; j++){
+    if (tamp[j] %2 ==1 ){
+    Console.WriteLine(tamp[j]);}
+    else if (tamp[j] %2 ==0)
+    {
+    Console.WriteLine(tamp[j]+1);
+    }
 }
 /*
 Console.WriteLine("Введите число");
